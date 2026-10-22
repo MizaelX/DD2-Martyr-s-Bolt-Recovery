@@ -1,0 +1,11 @@
+# Local save backups and game logs (never commit)
+backups/
+logs/
+*.log
+
+# Original spec copy (published as docs/SPEC.md)
+Dragon's Dogma 2 Mod Martyr's Bolt.txt
+
+# Tooling
+node_modules/
+.claude/
